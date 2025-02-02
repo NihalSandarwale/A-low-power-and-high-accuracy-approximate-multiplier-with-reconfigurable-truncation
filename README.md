@@ -1,0 +1,2 @@
+# A-low-power-and-high-accuracy-approximate-multiplier-with-reconfigurable-truncation
+A Low-Power and High-Accuracy Approximate Multiplier  This project presents an approximate multiplier with a 4-2 compressor, reconfigurable truncation, and an error compensation circuit to optimize power, speed, and area. Designed in Verilog HDL and simulated using Xilinx Vivado 2018.3, it is ideal for DSP, CNNs, FFT, and MAC units. 🚀
